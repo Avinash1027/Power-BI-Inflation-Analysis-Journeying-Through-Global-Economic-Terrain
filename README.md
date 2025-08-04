@@ -1,0 +1,61 @@
+# 🌍 Global Inflation Rate Dashboard - Power BI
+
+This project is a Power BI dashboard that visualizes and analyzes global inflation trends across countries over a span of years. It allows users to explore inflation data using dynamic visuals, slicers, and interactive maps.
+
+## 📊 Features
+
+- Year-wise analysis of inflation rates across countries
+- Interactive slicers to filter data by:
+  - Year
+  - Region
+  - Country
+- World map (Filled Map) showing country-wise inflation distribution
+- KPI cards showing:
+  - Country with highest inflation rate
+  - Country with lowest inflation rate
+  - Average global inflation
+- Clean bar and line charts for trend comparison
+- Fuzzy merge for data cleanup (if needed)
+
+## 🧩 Tools & Technologies
+
+- **Power BI Desktop**
+- **Power Query Editor**
+- Data cleaning, transformation, and modeling
+- Custom visuals and slicers
+- Filled maps for geographical visualization
+
+## 📁 Dataset
+
+- Source: `global_inflation_data.csv` file from this repository
+- Contains:
+  - Country
+  - Region
+  - Year
+  - Inflation Rate
+
+## 💡 Insights
+
+- Identified countries with extreme inflation rates
+- Observed inflation patterns across regions and years
+- Enabled interactive comparisons using slicers and tooltips
+
+## 🚀 How to Use
+
+1. Download the `Inflation Analysis Report.pbix` file from this repository
+2. Open it using **Power BI Desktop**
+3. Interact with the filters and visuals to explore data
+
+## 📷 Screenshots
+
+<img width="1307" height="729" alt="image" src="https://github.com/user-attachments/assets/939d98e5-de08-4ffa-b49e-6b64652c78ac" />
+<img width="1306" height="728" alt="image" src="https://github.com/user-attachments/assets/27cda4c8-11b2-43fc-a809-dd8799649f14" />
+
+
+## ✍️ Author
+
+**Avinash Mishra**  
+Feel free to connect or reach out for feedback or collaboration.
+
+---
+
