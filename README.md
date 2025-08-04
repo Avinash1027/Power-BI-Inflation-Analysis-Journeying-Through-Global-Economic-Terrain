@@ -48,7 +48,8 @@ This project is a Power BI dashboard that visualizes and analyzes global inflati
 
 ## 📷 Screenshots
 
-<img width="1307" height="729" alt="image" src="https://github.com/user-attachments/assets/939d98e5-de08-4ffa-b49e-6b64652c78ac" />
+<img width="1301" height="733" alt="image" src="https://github.com/user-attachments/assets/6875c20b-4aaa-4337-b156-424ec30ff2e7" />
+
 <img width="1306" height="728" alt="image" src="https://github.com/user-attachments/assets/27cda4c8-11b2-43fc-a809-dd8799649f14" />
 
 
