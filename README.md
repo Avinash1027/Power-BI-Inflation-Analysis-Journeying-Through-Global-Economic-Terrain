@@ -11,11 +11,12 @@ This project is a Power BI dashboard that visualizes and analyzes global inflati
   - Country
 - World map (Filled Map) showing country-wise inflation distribution
 - KPI cards showing:
-  - Country with highest inflation rate
-  - Country with lowest inflation rate
+  - Region Count
+  - Maximum Global Inflation
   - Average global inflation
-- Clean bar and line charts for trend comparison
-- Fuzzy merge for data cleanup (if needed)
+  - Inflation Rate Change
+- Clean column and line charts for trend comparison
+- Fuzzy merge for data cleanup
 
 ## 🧩 Tools & Technologies
 
@@ -30,7 +31,6 @@ This project is a Power BI dashboard that visualizes and analyzes global inflati
 - Source: `global_inflation_data.csv` file from this repository
 - Contains:
   - Country
-  - Region
   - Year
   - Inflation Rate
 
